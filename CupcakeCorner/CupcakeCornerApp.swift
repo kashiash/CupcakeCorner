@@ -13,5 +13,6 @@ struct CupcakeCornerApp: App {
         WindowGroup {
             ContentView()
         }
+        
     }
 }
